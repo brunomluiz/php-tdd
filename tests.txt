@@ -1,0 +1,8 @@
+Hero (Estudos\Tests\Model\Hero)
+ [x] We have at least 1 hero
+
+Battle (Estudos\Tests\Service\Battle)
+ [x] If we have 4 heros on battle
+ [x] Hero with highest attack
+ [x] Hero with lowest attack
+
