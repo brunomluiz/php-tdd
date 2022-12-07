@@ -1,3 +1,4 @@
 tests.txt
 .phpunit.result.cache
 /vendor
+/cover
